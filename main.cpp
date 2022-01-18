@@ -231,9 +231,9 @@ void intro()
     system("cls");
     cout<<"\n\t\t\t  SUPER MARKET BILLING";
     cout<<"\n\t\t\t\tPROJECT";
-    cout<<"\n\n\n\n\n\n\nMADE BY : Your Name";
-    cout<<"\n\nSCHOOL : School Name";
-    cout<<"\n\nCLASS : 10 " ;
+    cout<<"\n\n\n\n\n\n\nMADE BY : Shivam Jha";
+//     cout<<"\n\nInstitution : ";
+//     cout<<"\n\nCOURSE : " ;
     getch();
 }
 
